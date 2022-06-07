@@ -7,19 +7,12 @@ It was a course project and Flutter learning project; Thus slightly incomplete a
 ## Screenshots
 
 * Task Lists
-![Screenshots/TaskFlow_AllTaskLists](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_AllTaskLists.png)
-![Screenshots/Taskflow_SimpleTodoList](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/Taskflow_SimpleTodoList.png)
-![Screenshots/TaskFlow_TaskListWithNestedTasks](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_TaskListWithNestedTasks.png)
-![Screenshots/TaskFlow_AddTaskDetailedDialogue](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_AddTaskDetailedDialogue.png)
-![Screenshots/TaskFlow_DeadlinesView](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_DeadlinesView.png)
+![Screenshots/TaskFlow_AllTaskLists](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_AllTaskLists.png) ![Screenshots/Taskflow_SimpleTodoList](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/Taskflow_SimpleTodoList.png)
+![Screenshots/TaskFlow_TaskListWithNestedTasks](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_TaskListWithNestedTasks.png) ![Screenshots/TaskFlow_AddTaskDetailedDialogue](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_AddTaskDetailedDialogue.png) ![Screenshots/TaskFlow_DeadlinesView](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_DeadlinesView.png)
 
 * Schedule (Timed Routine)
-![Screenshots/TaskFlow_ScheduleEditor](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_ScheduleEditor.png)
-![Screenshots/TaskFlow_ScheduleNotRunning](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_ScheduleNotRunning.png)
-![Screenshots/TaskFlow_ScheduleRunning](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_ScheduleRunning.png)
+![Screenshots/TaskFlow_ScheduleEditor](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_ScheduleEditor.png) ![Screenshots/TaskFlow_ScheduleNotRunning](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_ScheduleNotRunning.png) ![Screenshots/TaskFlow_ScheduleRunning](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_ScheduleRunning.png)
 
 * Journal
-![Screenshots/TaskFlow_AddJournalRecord](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_AddJournalRecord.png)
-![Screenshots/TaskFlow_JournalEntries](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_JournalEntries.png)
-![Screenshots/Taskflow_JournalSearch](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/Taskflow_JournalSearch.png)
+![Screenshots/TaskFlow_AddJournalRecord](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_AddJournalRecord.png) ![Screenshots/TaskFlow_JournalEntries](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/TaskFlow_JournalEntries.png) ![Screenshots/Taskflow_JournalSearch](https://github.com/mahesh-hegde/TaskFlow/blob/main/Screenshots/Taskflow_JournalSearch.png)
 
